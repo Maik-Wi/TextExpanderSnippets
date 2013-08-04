@@ -5,7 +5,7 @@ Hier findet ihr ein paar meine [TextExpander](http://clkde.tradedoubler.com/clic
 
 ## HTML
 
-<a – <a href="" title="" target="_blank"></a>
+&lt;a – &lt;a href="" title="" target="_blank"&gt;&lt;/a&gt;
 <h1 – <h1></h1>
 <h2 – <h2></h2>
 <h3 – <h3></h3>
