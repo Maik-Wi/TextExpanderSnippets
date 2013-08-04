@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>groupInfo</key>
+	<dict>
+		<key>expandAfterMode</key>
+		<integer>0</integer>
+		<key>groupName</key>
+		<string>Markdown</string>
+	</dict>
+	<key>snippetsTE2</key>
+	<array>
+		<dict>
+			<key>abbreviation</key>
+			<string>mdl</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2013-03-23T04:00:08Z</date>
+			<key>flags</key>
+			<integer>1</integer>
+			<key>label</key>
+			<string>MarkdownLink from Safari</string>
+			<key>lastUsed</key>
+			<date>2013-08-04T19:24:42Z</date>
+			<key>modificationDate</key>
+			<date>2013-08-04T19:24:47Z</date>
+			<key>plainText</key>
+			<string>tell application "Safari"
+	set theURL to URL of current tab of window 1
+	set theTitle to the name of current tab of window 1
+	set mLink to "[](" &amp; theURL &amp;  " \"" &amp; theTitle &amp; "\")"
+	return mLink
+end tell</string>
+			<key>snippetType</key>
+			<integer>2</integer>
+			<key>useCount</key>
+			<integer>26</integer>
+			<key>uuidString</key>
+			<string>320A2D11-247D-4564-A37F-57B5B02F6271</string>
+		</dict>
+	</array>
+</dict>
+</plist>
