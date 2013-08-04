@@ -11,8 +11,7 @@ __&lt;h3__ – &lt;h3&gt;&lt;/h3&gt;
 __&lt;div__ – &lt;div class=""&gt;&lt;/div&gt;  
 __&lt;span__ – &lt;span&gt;&lt;/span&gt;  
 __&lt;code__ – &lt;code&gt;&lt;/code&gt;  
-__&lt;block__ – &lt;blockquote&gt;&lt;code  
-				 &lt;cite&gt;&lt;/cite&gt;&lt;/blockquote&gt;  
+__&lt;block__ – &lt;blockquote&gt;&lt;cite&gt;&lt;/cite&gt;&lt;/blockquote&gt;  
 __&lt;p&gt;__ – &lt;p&gt;&lt;/p&gt;  
 
 ## Markdown
