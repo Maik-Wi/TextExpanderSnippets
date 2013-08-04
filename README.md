@@ -6,15 +6,15 @@ Hier findet ihr ein paar meine [TextExpander](http://clkde.tradedoubler.com/clic
 ## HTML
 
 &lt;a – &lt;a href="" title="" target="_blank"&gt;&lt;/a&gt;
-<h1 – <h1></h1>
-<h2 – <h2></h2>
-<h3 – <h3></h3>
-<div – <div class=""></div>
-<span – <span></span>
-<code – <code></code>
-<block – <blockquote><code
-				 <cite></cite></blockquote>
-<p> – <p></p>
+&lt;h1 – &lt;h1&gt;&lt;/h1&gt;
+&lt;h2 – &lt;h2&gt;&lt;/h2&gt;
+&lt;h3 – &lt;h3&gt;&lt;/h3&gt;
+&lt;div – &lt;div class=""&gt;&lt;/div&gt;
+&lt;span – &lt;span&gt;&lt;/span&gt;
+&lt;code – &lt;code&gt;&lt;/code&gt;
+&lt;block – &lt;blockquote&gt;&lt;code
+				 &lt;cite&gt;&lt;/cite&gt;&lt;/blockquote&gt;
+*&lt;p&gt;* – &lt;p&gt;&lt;/p&gt;
 
 ## Markdown
-mdl – [](https://link "Title")
+*mdl* – &#91;&#93;&#40;https://link "Title"&#41;
