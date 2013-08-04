@@ -15,4 +15,4 @@ __&lt;block__ – &lt;blockquote&gt;&lt;cite&gt;&lt;/cite&gt;&lt;/blockquote&gt;
 __&lt;p&gt;__ – &lt;p&gt;&lt;/p&gt;  
 
 ## Markdown
-__mdl__ – &#91;&#93;&#40;https://link "Title"&#41; – [more](http://buntepixel.org/?p=4487 "TextExpander-Snippet zum erstellen von Markdown-Links aus aktuellem Safari-Tab")
+__mdl__ – &#91;&#93;&#40;https://link "Title"&#41; – [more Infos](http://buntepixel.org/?p=4487 "TextExpander-Snippet zum erstellen von Markdown-Links aus aktuellem Safari-Tab")
